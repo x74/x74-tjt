@@ -1,4 +1,4 @@
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 786.91891 230.75005" xmlns:dc="http://purl.org/dc/elements/1.1/" class="ts_full">
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="231" width="787" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 786.91891 230.75005" xmlns:dc="http://purl.org/dc/elements/1.1/">
  <defs>
   <linearGradient id="h" x1="341" gradientUnits="userSpaceOnUse" x2="410" gradientTransform="matrix(1.01 0 0 .917 -271 -302)" y1="508" y2="584">
    <stop stop-color="#00ff66" offset="0"/>
@@ -27,7 +27,7 @@
  </defs>
  <flowRoot style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="translate(-.235 -1.75)" line-height="125%" font-size="40px" font-family="sans-serif" fill="#000000"><flowRegion><rect y="28.6" width="70" x="129" height="62.6"/></flowRegion><flowPara>beca</flowPara></flowRoot>
  <text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="scale(.902 1.11)" font-size="131px" y="100.35773" x="242.85199" font-family="sans-serif" line-height="125%" fill="#000000"><tspan x="242.85199" y="100.35773">FirstWave</tspan></text>
- <text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="scale(.877 1.14)" font-size="30px" y="148.54378" x="258.79416" font-family="sans-serif" line-height="125%" fill="#000000"><tspan x="258.79416" y="148.54378">Cool breeze by Maniana</tspan></text>
+ <text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="scale(.877 1.14)" font-size="52.1px" y="148.54378" x="258.79416" font-family="sans-serif" line-height="125%" fill="#000000"><tspan x="258.79416" y="148.54378">I can feel a cool breeze.</tspan></text>
  <g transform="translate(-5.3e-8 -3.06)">
   <path d="m71.6 196c4.41-11.2 11.8-21.5 18.1-31.7 15.6 12.3 43.1 30.3 51.6 45.1-6.63 7.89-16 13.9-24 20.9-9.01 8.72-19.8-9.24-24.7-13.8-6.93-6.61-13.9-13.7-21-20.5z" fill="url(#h)"/>
   <path d="m128 190c-10.9-10.4-25.2-17.1-7.97-20.9 34.5-13.4 68.9-27.2 104-40-1.66 12.1-11.5 22.1-20.6 30.6l-55.5 46.1c-6.79-.719-7.32-3.72-15.1-11.5l-4.54-4.29z" fill="url(#g)"/>
