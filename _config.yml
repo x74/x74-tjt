@@ -1,5 +1,5 @@
-name: Twister
-description: a powerful jekyll theme
+name: FirstWave
+description: The best spot for latest technology
 url: #place url
 gems: [jekyll-paginate]
 baseurl: #place folder name if site is served in subfolder
