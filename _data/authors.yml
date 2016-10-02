@@ -1,6 +1,6 @@
 -
   id: someone
-  name: Some Person
+  name: someone else
   avatar: /profile-pic.jpg
   bio: this is some more information about the author.
   facebook: https://www.facebook.com/someone
@@ -8,6 +8,6 @@
   instagram: http://instagram.com/someone
   email: someone@something.com
 -
-  id: person
+  id: koala
   avatar: /profile-pic.jpg
-  bio: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id, quidem.
+  bio: Ponad dwadziescia lat doswiadczenia w projektowaniu elektroniki. Autor wielu publikacji w miedzynarodowej prasie branzowej.

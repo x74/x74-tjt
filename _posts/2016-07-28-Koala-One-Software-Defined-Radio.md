@@ -29,3 +29,5 @@ Wystarczy wysłać maila na adres email i zamówić wybrany model płyty. Płyty
    1. częstotliwość próbkowania (zegar) 50MHz, na zamówienie także 52MHz
 
 Drivery do programu Winrad, które ja dostarczam są skompilowane tak, aby działały z zegarem 50MHz. Jeżeli chcemy używać Koala One z gnuradio pod Linuksem to gnuradio należy instalować ze źródeł. Zaraz po ściągnięciu repozytorium należy dokonać zmiany w kodzie źródłowym. W pliku "usrp_basic.cc" należy zamienić 64000000 na 50000000 jako właściwą częstotliwość zegara. Potem postępować zgodnie z instrukcjami instalacji na gnuradio.org.
+
+![GSX1800-i-Koala](/img/DSC05729_640x480.JPG){:class="img-responsive"}

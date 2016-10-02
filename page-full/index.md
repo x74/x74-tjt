@@ -1,12 +1,32 @@
 ---
-layout: page_full
-featimg: 6.jpg
-title: Page
+layout: page_full 
+comments: false 
+title: O Mnie 
 ---
-## This is a full-width static page
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit voluptatibus, assumenda perspiciatis vel eos, molestias nisi cum accusantium commodi amet modi repellendus. Nostrum iure fugiat ducimus quae nesciunt distinctio ullam.
+Oto nowa strona. **FROM MANIANA WITH LOVE**. Jeżeli chcecie więcej treści,
+częściej wysyłane posty to właśnie nowy układ strony umożliwia
+mi częstsze aktualizacje. Jeszcze dużo treści pozostało do
+przeniesienia ze starej strony, ale mam nadzieje, ze te najbardziej
+przydatne już tu są. Porządkując treść mojej starej strony
+wykasowałem artykuły, które straciły już sens istnienia w
+obliczu postępu technologicznego. Oczywiście będą także nowe,
+niepublikowane wcześniej.
 
-Modi consequuntur, ex, quod optio perferendis delectus libero excepturi recusandae, odio earum consectetur obcaecati repellat atque natus dignissimos quidem laboriosam nisi est? Hic ex ullam aspernatur perferendis doloremque odit eius nostrum cumque repudiandae sapiente culpa voluptate qui quasi, nulla dolorum facilis ab.
+***
 
-Excepturi atque fuga illum fugiat consequatur, obcaecati, quaerat voluptatibus! Consequuntur ut dolore impedit magni officiis a voluptatibus odio, assumenda obcaecati illo reprehenderit veniam totam dolorem optio iure eius corporis aspernatur inventore quia perspiciatis placeat ratione repellat! Voluptatem.
+## Kontakt
+
+Można się ze mną skontaktować pisząc na adres <A HREF="mailto:{{ site.encryptedemail }}" ONMOUSEOVER="this.href=this.href.replace(/x/g,'');">{{ site.encryptedemail }} </A>
+
+**Uwaga** - Musisz mieć włączony java script aby email wyświetlił się poprawnie. Jeżeli nie masz java
+script, po prostu usuń wszystkie 'x' w tym adresie.
+Wkrótce dodam także formularz kontaktowy i klucz PGP bo wiem, jak bardzo ważna jest poufność.
+![mapa](/img/wawa.jpg){:class="img-responsive"}
+
+{% comment %} taken from freelancer theme
+https://github.com/jeromelachaud/freelancer-theme/blob/master/_layouts/default.html
+{% if site.contact == "static" %} {% include
+contact_static.html %} {% elsif site.contact == "disqus" %}
+{% include contact_disqus.html %} {% else %} {% include contact.html
+%} {% endif %} {% endcomment %} 

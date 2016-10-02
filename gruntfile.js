@@ -13,7 +13,8 @@ module.exports = function(grunt) {
 
         sass: {
             options: {
-                outputStyle: 'compressed',
+                style: 'expanded',
+                sourceMap: true
             },
             dist: {
                 files: {
@@ -78,6 +79,7 @@ module.exports = function(grunt) {
 
 
     grunt.loadNpmTasks('grunt-contrib-uglify');
+    //grunt.loadNpmTasks('grunt-contrib-sass');
     grunt.loadNpmTasks('grunt-sass');
     grunt.loadNpmTasks('grunt-contrib-watch');
     grunt.loadNpmTasks('grunt-autoprefixer');
@@ -90,3 +92,7 @@ module.exports = function(grunt) {
     grunt.registerTask("default", ["sass", "autoprefixer", "shell:jekyllBuild", "watch"]);
     grunt.registerTask("deploy", ["buildcontrol:pages"]);
 };
+// ping url's for search engines
+//http://submissions.ask.com/ping?sitemap=http://example.com/sitemap.xml
+//http://www.bing.com/webmaster/ping.aspx?siteMap=http://example.com/sitemap.xml
+//http://www.google.com/webmasters/sitemaps/ping?sitemap=http://example.com/sitemap.xml

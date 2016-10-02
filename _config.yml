@@ -1,9 +1,9 @@
 name: FirstWave
 description: The best spot for latest technology
-url: #place url
-gems: [jekyll-paginate]
-baseurl: #place folder name if site is served in subfolder
-permalink: /:title/
+url: maniana.strefa.pl #place url
+gems: [jekyll-paginate, jekyll-seo-tag]
+baseurl:  #place folder name if site is served in subfolder
+permalink: /:year/:month/:title/
 paginate: 8
 paginate_path: /page/:num/
 tag_dir: /tag
@@ -11,15 +11,22 @@ category_dir: /category
 author_dir: /author
 author_title_prefix: 'Posted by '
 media_folder: /img
-author_default_avatar: /profile-pic.jpg
-tumblr: "#"
-pinterest: "#"
-instagram: "#"
-twitter: "#"
-facebook: "#"
-youtube: "#"
-vimeo: "#"
-soundcloud: "#"
+author_default_avatar: /profile-pic.png
+#tumblr: "#"
+#pinterest: "#"
+#instagram: "#"
+#twitter: "#"
+#facebook: "#"
+#youtube: "#"
+#vimeo: "#"
+#soundcloud: "#"
+encryptedemail: 'polcad@xinteriax.pl'
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
 
 encoding: utf-8
 defaults:

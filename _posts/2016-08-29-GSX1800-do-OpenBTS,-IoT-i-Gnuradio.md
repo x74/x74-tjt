@@ -1,10 +1,10 @@
 ---
 layout: post
 type: standard
-featimg: koala.jpg
-title: Płyta GSX1800
+featimg: DSC05726_640x480.JPG
+title: GSX1800 do OpenBTS, IoT i Gnuradio
 description: Najnowsza wersja plytki radiowej GSM 900 i GSM 1800 do OpenBTS. IoT, ISM i Gnuradio.
-image: 
+image: /img/DSC05726_640x480.JPG
 homedisplay: featimg
 author: koala
 tags: [gnuradio, openbts, hardware, IoT]
