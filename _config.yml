@@ -11,7 +11,7 @@ category_dir: /category
 author_dir: /author
 author_title_prefix: 'Posted by '
 media_folder: /img
-author_default_avatar: /profile-pic.png
+author_default_avatar: /emp-1.png
 #tumblr: "#"
 #pinterest: "#"
 #instagram: "#"
@@ -43,7 +43,7 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 relative_permalinks: false
-exclude: [.git, .gitignore, sass, .sass-cache, package.json, gruntfile.js, node_modules, README.md]
+exclude: [.git, .gitignore, sass, .sass-cache, package.json, gruntfile.js, node_modules, README.md, LICENSE.md, gemfile, readme.txt]
 
 # prose.io configurations
 prose:
