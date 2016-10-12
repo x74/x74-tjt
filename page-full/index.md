@@ -4,7 +4,7 @@ comments: false
 title: O Mnie 
 ---
 
-Oto nowa strona. **FROM MANIANA WITH LOVE**. Jeżeli chcecie więcej treści,
+Oto nowa strona. **FROM KOALA WITH LOVE**. Jeżeli chcecie więcej treści,
 częściej wysyłane posty to właśnie nowy układ strony umożliwia
 mi częstsze aktualizacje. Jeszcze dużo treści pozostało do
 przeniesienia ze starej strony, ale mam nadzieje, ze te najbardziej

@@ -1,7 +1,7 @@
 -
   id: someone
   name: someone else
-  avatar: /profile-pic.jpg
+  avatar: /img/emp-1.png
   bio: this is some more information about the author.
   facebook: https://www.facebook.com/someone
   twitter: https://twitter.com/someone
@@ -9,5 +9,5 @@
   email: someone@something.com
 -
   id: koala
-  avatar: /profile-pic.jpg
-  bio: Ponad dwadziescia lat doswiadczenia w projektowaniu elektroniki. Autor wielu publikacji w miedzynarodowej prasie branzowej.
+  avatar: /emp-1.png
+  bio: Ponad dwadzieścia lat doświadczenia w projektowaniu elektroniki. Autor wielu publikacji w międzynarodowej prasie branżowej.

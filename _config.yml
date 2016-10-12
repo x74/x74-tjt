@@ -1,4 +1,4 @@
-name: FirstWave
+name: Maniana
 description: The best spot for latest technology
 url: maniana.strefa.pl #place url
 gems: [jekyll-paginate, jekyll-seo-tag]
