@@ -3,7 +3,7 @@ layout: post
 type: standard
 featimg: koala.jpg
 title: Koala One Software Defined Radio
-description: Oto płyta do zastosowań typu software defined radio. Jest kompatybilna z OpenBTS i Gnuradio.
+description: Płyta Koala One do zastosowań typu Software Defined Radio. Koala One jest kompatybilna z OpenBTS i Gnuradio. Cena Koala One jest bardziej konkurencyjna niż cena USRP.
 homedisplay: featimg
 author: koala
 image: /img/koala.jpg
